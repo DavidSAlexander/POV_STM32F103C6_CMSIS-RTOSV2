@@ -54,7 +54,7 @@ int main() {
     /* Display characters and strings */
     POV_WriteChar('D');
     POV_WriteCharInPos('a', 1);
-    POV_WriteString("VID");
+    POV_WriteString("vid");
 
     /* Set cursor position and display a string */
     POV_SetCursor(5);
