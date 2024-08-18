@@ -2,6 +2,8 @@
 
 Implementation of FreeRTOS using CMSIS-RTOSV2 on a POV display with the BluePill STM32F103C6 using the provided POV Driver.
 
+[Watch the project video on my LinkedIn](https://www.linkedin.com/posts/david-s-alexander20_embeddedsystems-stm32f103c6-povdisplay-activity-7157980267280842752-0r-t?utm_source=share&utm_medium=member_desktop)
+
 ## Main Features
 
 1. **Configuration:** Customize parameters such as timers, number of used pixels, required resolution, and font in the `POV_DisplayCFG.h` file.
